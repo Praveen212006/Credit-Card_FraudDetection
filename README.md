@@ -1,4 +1,4 @@
-# 🛡️ CreditGuard AI
+#  CreditGuard AI
 ### Intelligent Financial Fraud Detection & Analytics Platform
 
 > **Detect the Unusual. Protect Every Transaction.**
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
 1. [Project Overview](#-project-overview)
 2. [Key Features](#-key-features)
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛡️ Project Overview
+##  Project Overview
 
 **CreditGuard AI** is an end-to-end financial intelligence platform designed to detect and analyze potentially fraudulent credit card transactions using machine learning.
 
@@ -62,7 +62,7 @@ The platform combines a Python-based machine learning engine, FastAPI backend, a
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 CreditGuard AI follows a modular architecture that separates the frontend, backend, machine learning engine, and persistence layer.
 
@@ -128,7 +128,7 @@ SQLite stores prediction history and relevant transaction analysis metadata.
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 
 **Dataset:** European Credit Card Fraud Detection Dataset
 
@@ -179,7 +179,7 @@ Therefore, CreditGuard AI emphasizes Precision, Recall, F1-score, PR-AUC, and RO
 
 ---
 
-## 🧠 Machine Learning Model & Benchmarks
+##  Machine Learning Model & Benchmarks
 
 CreditGuard AI uses supervised machine learning algorithms to identify potentially fraudulent transactions.
 
@@ -247,7 +247,7 @@ Note: V1–V28 are anonymized PCA-derived features. Their importance does not pr
 
 ---
 
-## 📁 Project Directory Structure
+##  Project Directory Structure
 
 ```text
 CreditGuard-AI/
@@ -348,7 +348,7 @@ CreditGuard-AI/
 
 ---
 
-## 💻 Technology Stack
+##  Technology Stack
 
 ### Frontend
 
@@ -393,7 +393,7 @@ CreditGuard-AI/
 
 ---
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 Install the following before running CreditGuard AI:
 
@@ -409,7 +409,7 @@ Python 3.14 was used in the documented development environment. Package compatib
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ### Step 1: Open the Project
 
@@ -499,7 +499,7 @@ npm install
 
 ---
 
-## 🏃 Running the Application
+##  Running the Application
 
 CreditGuard AI requires two running development servers: one for FastAPI and one for React.
 
@@ -562,7 +562,7 @@ Open the frontend URL in your browser to access the CreditGuard AI platform.
 
 ---
 
-## 🧠 Model Training & Evaluation Pipeline
+##  Model Training & Evaluation Pipeline
 
 The pre-trained model artifacts are stored in:
 
@@ -611,7 +611,7 @@ The model training scripts should preserve the same preprocessing and feature or
 
 ---
 
-## 📡 API Reference
+##  API Reference
 
 All backend endpoints use the `/api` prefix.
 
@@ -657,7 +657,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🧪 Running Automated Tests
+##  Running Automated Tests
 
 The backend includes an automated API test suite.
 
@@ -713,7 +713,7 @@ This checks whether the frontend can be compiled for production.
 
 ---
 
-## 🖥️ Application Pages
+##  Application Pages
 
 CreditGuard AI includes seven primary pages.
 
@@ -753,7 +753,7 @@ Explains the technical architecture, methodology, and project limitations.
 
 ---
 
-## 🎨 Design System
+##  Design System
 
 CreditGuard AI follows a **Premium Organic SaaS** design philosophy.
 
@@ -792,7 +792,7 @@ The goal is to create a professional financial technology interface that feels h
 
 ---
 
-## 🔐 Security & Privacy
+##  Security & Privacy
 
 CreditGuard AI follows basic security and data handling practices.
 
@@ -809,7 +809,7 @@ CreditGuard AI follows basic security and data handling practices.
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 Potential improvements include:
 
@@ -826,7 +826,7 @@ Potential improvements include:
 
 ---
 
-## 📄 License & Attribution
+##  License & Attribution
 
 ### Dataset Attribution
 
