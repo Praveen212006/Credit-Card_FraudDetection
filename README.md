@@ -4,7 +4,6 @@
 > *A production-grade machine learning system built with FastAPI, Scikit-learn, React 19, and the Premium Organic SaaS design system.*
 
 ---
-
 ## 📌 Table of Contents
 
 - [Overview](#-overview)
@@ -397,5 +396,6 @@ CreditGuard AI is styled with a **Premium Organic SaaS** aesthetic:
 
 - **Dataset**: Machine Learning Group - ULB (*Université Libre de Bruxelles*), Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson, and Gianluca Bontempi.
 - **Platform Architecture**: CreditGuard AI.
-#   C r e d i t - C a r d _ F r a u d D e t e c t i o n  
+#   C r e d i t - C a r d _ F r a u d D e t e c t i o n 
+ 
  
