@@ -24,10 +24,12 @@ APP_DESCRIPTION = "Intelligent Credit Card Fraud Detection Platform"
 APP_VERSION = "1.0.0"
 
 CORS_ORIGINS = [
-    "http://localhost:5173",
-    "http://localhost:5174",
-    "http://127.0.0.1:5173",
-    "http://127.0.0.1:5174",
+    origin.strip()
+    for origin in os.getenv(
+        "CORS_ORIGINS",
+        "http://localhost:5173"
+    ).split(",")
+    if origin.strip()
 ]
 
 MAX_UPLOAD_SIZE_MB = 50
